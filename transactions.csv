@@ -1,0 +1,201 @@
+TransactionID,Items
+1,"Bread, Cereal, Eggs, Butter, Juice"
+2,"Eggs, Juice, Milk, Cheese, Cereal"
+3,"Apples, Bread, Butter, Chicken"
+4,"Juice, Bananas, Milk, Cheese"
+5,"Chicken, Butter, Cheese"
+6,"Cheese, Apples, Milk, Juice"
+7,Bread
+8,Bread
+9,"Bananas, Juice, Milk, Cereal, Bread"
+10,"Cereal, Apples"
+11,Chicken
+12,"Butter, Eggs, Cereal"
+13,Cheese
+14,"Chicken, Cheese"
+15,"Cheese, Eggs, Milk, Chicken, Cereal"
+16,"Bananas, Apples, Eggs, Milk, Cereal"
+17,"Apples, Bread, Cereal, Chicken, Milk"
+18,"Bananas, Apples, Cheese"
+19,Cereal
+20,Milk
+21,"Juice, Butter"
+22,"Cereal, Juice"
+23,"Juice, Bread, Cereal, Bananas, Chicken"
+24,"Cereal, Bread, Juice"
+25,"Juice, Bananas, Chicken, Bread"
+26,"Cereal, Apples"
+27,"Bananas, Bread, Cereal, Cheese"
+28,"Eggs, Bananas, Cereal, Milk"
+29,"Eggs, Bananas, Cheese, Apples, Milk"
+30,"Cereal, Cheese, Juice, Bread, Milk"
+31,"Cheese, Juice, Eggs"
+32,Cheese
+33,"Eggs, Apples, Bananas, Juice, Cereal"
+34,"Juice, Cheese, Apples, Eggs, Cereal"
+35,"Apples, Bread, Butter"
+36,"Bread, Juice, Cheese, Bananas"
+37,"Butter, Juice, Cereal"
+38,"Butter, Juice"
+39,"Juice, Apples"
+40,"Bananas, Cereal, Chicken, Apples"
+41,Apples
+42,"Butter, Apples"
+43,"Cheese, Juice"
+44,"Milk, Bananas, Butter, Bread, Apples"
+45,"Cereal, Cheese, Juice, Butter, Eggs"
+46,"Bread, Milk, Bananas"
+47,"Bananas, Bread, Butter, Cereal, Cheese"
+48,"Butter, Bread, Eggs, Chicken"
+49,"Milk, Cheese, Butter"
+50,"Bananas, Cereal, Butter, Bread"
+51,"Bananas, Eggs, Milk"
+52,Bread
+53,"Bananas, Chicken"
+54,"Cheese, Cereal, Butter, Bread, Eggs"
+55,"Eggs, Cheese, Bread, Chicken, Bananas"
+56,"Butter, Eggs"
+57,"Juice, Cheese, Bread"
+58,Eggs
+59,"Cheese, Milk, Eggs"
+60,"Cheese, Chicken, Bananas, Milk, Butter"
+61,"Bananas, Cereal, Milk, Bread, Cheese"
+62,Apples
+63,"Cheese, Bananas"
+64,Bread
+65,"Eggs, Juice, Apples, Bananas, Cereal"
+66,"Apples, Cheese"
+67,"Eggs, Milk"
+68,Bananas
+69,"Cereal, Chicken, Bread"
+70,Butter
+71,"Apples, Milk, Cereal, Bananas, Chicken"
+72,"Apples, Cereal, Cheese, Chicken"
+73,Milk
+74,Chicken
+75,"Eggs, Butter, Cheese"
+76,"Bread, Chicken"
+77,"Bananas, Milk, Eggs"
+78,Juice
+79,"Cheese, Apples, Butter"
+80,"Cheese, Eggs, Bananas, Butter"
+81,"Chicken, Milk, Butter, Bananas"
+82,"Juice, Eggs, Chicken, Apples"
+83,"Juice, Cereal, Bread, Bananas"
+84,"Bread, Butter, Chicken"
+85,"Juice, Apples"
+86,"Chicken, Bread, Eggs, Cheese"
+87,"Juice, Bread, Chicken"
+88,"Chicken, Juice, Apples, Milk"
+89,"Butter, Apples, Milk, Eggs, Bananas"
+90,"Juice, Bread, Apples, Cheese"
+91,"Juice, Cereal, Milk, Cheese"
+92,"Bread, Chicken, Juice, Bananas"
+93,Cheese
+94,"Bananas, Butter, Chicken, Juice, Cereal"
+95,"Milk, Apples, Bread, Eggs, Butter"
+96,"Juice, Cheese, Chicken"
+97,"Butter, Juice, Chicken"
+98,"Cheese, Cereal, Bananas, Butter"
+99,"Chicken, Butter, Cereal, Milk, Juice"
+100,"Bananas, Juice"
+101,"Chicken, Apples, Juice, Eggs, Bananas"
+102,"Juice, Apples"
+103,Bananas
+104,"Bananas, Bread, Eggs, Butter"
+105,"Chicken, Bread, Butter, Apples, Juice"
+106,"Cheese, Juice, Chicken"
+107,"Eggs, Apples"
+108,"Butter, Eggs, Juice, Chicken"
+109,Bananas
+110,Cereal
+111,"Bread, Bananas, Juice, Eggs"
+112,"Juice, Cereal"
+113,"Milk, Cheese, Cereal, Butter"
+114,"Eggs, Milk, Apples"
+115,Cereal
+116,"Apples, Eggs"
+117,"Chicken, Cereal, Bananas, Apples"
+118,"Cheese, Juice"
+119,"Chicken, Bread"
+120,"Chicken, Eggs, Butter"
+121,"Cereal, Juice, Butter, Milk, Bananas"
+122,"Eggs, Bread, Milk, Juice, Butter"
+123,"Chicken, Bread, Cheese, Milk, Eggs"
+124,"Eggs, Milk, Chicken, Bread, Apples"
+125,"Bread, Juice, Chicken"
+126,"Milk, Bananas, Cheese"
+127,"Bread, Milk, Juice"
+128,"Cheese, Bananas, Juice, Bread, Milk"
+129,"Eggs, Juice, Bread, Apples, Cereal"
+130,Butter
+131,Bread
+132,Juice
+133,"Apples, Bananas, Eggs, Bread, Juice"
+134,"Milk, Bananas"
+135,"Cereal, Milk"
+136,Milk
+137,Milk
+138,"Butter, Apples, Juice, Cereal"
+139,Butter
+140,"Chicken, Eggs, Bananas"
+141,"Butter, Chicken, Bananas, Cereal, Milk"
+142,"Juice, Apples"
+143,Cheese
+144,"Cheese, Eggs"
+145,Apples
+146,"Cheese, Bananas, Cereal, Apples, Eggs"
+147,"Cheese, Bread"
+148,"Juice, Chicken, Apples, Milk"
+149,Juice
+150,Eggs
+151,"Chicken, Bread"
+152,"Eggs, Bananas, Milk, Butter, Juice"
+153,Butter
+154,"Juice, Cereal, Bananas"
+155,"Chicken, Bread, Butter"
+156,"Eggs, Cheese, Butter, Juice"
+157,"Cereal, Eggs, Chicken, Apples, Milk"
+158,"Apples, Bread, Eggs, Juice"
+159,"Eggs, Cheese, Juice"
+160,"Bread, Cereal, Cheese"
+161,"Milk, Cereal, Juice"
+162,"Chicken, Juice, Cheese, Cereal, Apples"
+163,Cereal
+164,Juice
+165,"Apples, Juice, Chicken"
+166,"Bananas, Bread, Juice, Cereal"
+167,"Chicken, Eggs, Butter, Bananas"
+168,"Juice, Cheese"
+169,"Bananas, Juice, Chicken, Cereal, Butter"
+170,"Bread, Milk, Bananas, Eggs, Apples"
+171,Bananas
+172,Juice
+173,"Apples, Bread, Chicken, Cereal, Milk"
+174,"Milk, Cereal, Eggs"
+175,Cheese
+176,"Juice, Cereal, Bananas"
+177,"Cereal, Eggs, Milk, Apples, Bread"
+178,"Eggs, Cereal"
+179,"Eggs, Chicken, Bananas, Juice"
+180,"Cheese, Apples"
+181,Eggs
+182,"Eggs, Butter, Milk, Cereal"
+183,"Eggs, Butter, Apples"
+184,"Cheese, Butter, Juice, Eggs, Cereal"
+185,Milk
+186,"Cereal, Apples, Cheese, Bananas"
+187,"Milk, Eggs"
+188,"Bread, Butter"
+189,"Milk, Eggs"
+190,"Chicken, Butter, Cereal"
+191,"Milk, Chicken, Cereal, Bread, Cheese"
+192,"Juice, Bananas, Eggs, Milk, Chicken"
+193,"Cereal, Butter, Eggs, Milk"
+194,"Butter, Cereal, Chicken"
+195,"Juice, Butter, Cheese"
+196,"Juice, Milk"
+197,"Cereal, Juice, Chicken, Milk, Eggs"
+198,"Eggs, Chicken, Butter"
+199,"Milk, Cheese, Chicken, Cereal"
+200,"Bread, Milk"
